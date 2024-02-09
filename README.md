@@ -28,4 +28,35 @@ https://pypi.org/project/pycrc/
 The google-cloud-storage library is used to interact with Google Cloud Storage, and it can be installed using pip
 https://cloud.google.com/python/docs/reference/storage/latest
 
+For google-cloud-storage, you'll also need to set up authentication to interact with Google Cloud services:
+
+Install the Google Cloud SDK (optional but recommended for managing credentials and interacting with Google Cloud services from the command line):
+
+Follow the instructions here: Google Cloud SDK Documentation
+
+Initialize the SDK (if installed):
+
+Run gcloud init in your terminal and follow the instructions.
+
+Create a Service Account and Download a Key File:
+
+Go to the Google Cloud Console.
+Navigate to IAM & Admin > Service Accounts.
+Create a new service account, assign it the necessary roles (e.g., Storage Object Admin), and download a JSON key file.
+Set the Environment Variable for Authentication:
+
+Set GOOGLE_APPLICATION_CREDENTIALS to the path of your JSON key file. This allows your script to authenticate with Google Cloud services.
+
+On Linux/macOS:
+sh
+export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/keyfile.json"
+
+On Windows (Command Prompt):
+cmd
+set GOOGLE_APPLICATION_CREDENTIALS=C:\path\to\your\keyfile.json
+
+On Windows (PowerShell):
+PowerShell
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\path\to\your\keyfile.json"
+
 
