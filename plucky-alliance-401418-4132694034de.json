@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "plucky-alliance-401418",
+  "private_key_id": "4132694034de86c629238a1b9821169ba3c57ac1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqpg34nePs7wUB\n3fYMYog2+w+rdTlHmmKDcuhzWk/porpgxqFJXepAwoa/qNs3ZR9WW2r8lVHxH1oK\n6+mxb+mhXy9L841VsbbK1bL9Wth+BnHhFDK74Ba4/szsoZYkiUTfAVQ7Uj3Ps/Cu\nKuEROM1oJtoR7TxfLvK6AZI+hSdBZIdB8JmStbAtmTlPDV9yZ6JjWziECo32Rqfr\nW9aSKKTK3fNE+huM+yRhj1QmdXXz1mgsDKrTF4/kkR7PdPZ3qETi4YCeB78DA/ih\nT1qJvR0JkE1SqhfgzR6BoI0UsAbRUMGBXfMaUcB6iHRs2/OiFKVZFPfxE9zBPx7k\nFC14hd67AgMBAAECggEACI1m8NlU5Xh7K0NJBAjiI8NEX0byNnT1z/mvzawuihqG\nNbhut+MVjOZS44MebXHLdsQBIiSHpUp5dEergCGIN3ayQ5+yqyNLcnHwVQM7C2He\nTjX5bvIFoYLfmVJl2HHqujRyWMC/6Utu2gO7IOZUYQ5lanWVy31qW8kdX7XDqGLA\n5Vp2/ma8sdAgjAvVC2JhoruJSTpzmtNNxApqsoBSVEolhJ8V/45sTynBNidOlHDC\n84z5AbZj4nYRka/ei+ByhZ8PirldVSjimJI20sct/gK0IRvaj5pXV2kwLa3oCXIR\ntHYEhveVkysYl2d4EnUOCmTbi5MCDXjluzaUGaiciQKBgQDgp8Rr1oakgFMAehy0\nZ34hJpHJrOoXwqAbEE2Es9+CFxtASL5ESba8I0CFHA6AWUqiW2Nm5YFj392OX+zh\nc2VxvrEU5pju68MtA651o2Kz+UO8ye7/BxnUh+SKW92NN2hJrOH3o6MKd90CjJ2o\noDwaZjkGDMlm2QCEghG5Cu9sYwKBgQDCdUcoj/kGQYiZszNhGRB5ZTmq86yJRqL1\nMWa57VO1uxbGQUg5a1/aa+YaiNKKODIb6p8q2vdvkQoTyWdAGWw4Q/ukM8Hk+jPq\nQBL4Ysl+1WYUYyoIuEVbOFHE2LGbDL9Dm0vumrjNGbon1Mf6p6hCCb42/hXhADcu\nxofJ82W3yQKBgAjIRjN5BXZ01cnU/D5JNXMSUOyzZ8tZ/mxQbNddOMWbJaOTtGxy\n/UPJlQIfIKn/050ZOX+SRUakP8MLGPWPT03tCHsqsJvWd6DQ3gcXRgqHGhDNTByI\nKIhYb6TBBp44pkkLCyJlMUB9gxRQbvFiojbd/CiyY0U0AoMrmonDVazFAoGBALW9\nrGLRpFlfeE7GOBfguA/tNmd61F98gCMPJ8ZPc/QeRhvGubzIiM54F5fnFncOLG8A\n6f/ApI9GDBgQHQrAd+9iQlbl9KqP2WNuvQweL9n1kjEtuQRrTI8D5RBHwj56PGvw\nQZhgTKWMDPrbGIhAl7YYqwl0kXg3nlt+OzzY2dFZAoGBAI4UsZ/dSBNSLYQhCUAC\nbv48e3Z0BDhmjB6PuLbRKF65Lzo311A83IV6vB4KdkFp8mvbu6qRR3Hn2ZN8+noy\nQqLCOftgwVeLYDqe0QltVoE8Gdm9DuiFDGuOjCVxbH37tIcRUXodPvklc+TM4KQ9\nfG4XnfDxYQKGQuySlK3oFeVj\n-----END PRIVATE KEY-----\n",
+  "client_email": "eeg-123456@plucky-alliance-401418.iam.gserviceaccount.com",
+  "client_id": "103895051857384509280",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eeg-123456%40plucky-alliance-401418.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
