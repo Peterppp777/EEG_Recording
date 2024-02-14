@@ -21,7 +21,7 @@ This project requires the following Arduino libraries:
 #### LSM6DS3 Library
 
 - **Description**: The LSM6DS3 is a 3D accelerometer and 3D gyroscope sensor.
-- **Installation**: Available through the Arduino Library Manager or directly from the [manufacturer's or a third-party GitHub repository](https://www.arduino.cc/reference/en/libraries/arduino_lsm6ds3/).
+- **Installation**: Available through the Arduino Library Manager or directly from the [manufacturer's or a third-party GitHub repository](https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3).
 
 #### CircularBuffer Library
 
