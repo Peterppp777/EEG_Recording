@@ -16,6 +16,8 @@ A brief introduction to your project. Describe what your project does, its featu
 
 ### Arduino Libraries
 
+Since we are using the XIAO NRF52840 MCU, here is the [link](https://wiki.seeedstudio.com/XIAO_BLE/#software-setup) for start up.
+
 This project requires the following Arduino libraries:
 
 #### LSM6DS3 Library
